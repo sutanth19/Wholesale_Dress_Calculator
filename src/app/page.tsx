@@ -24,11 +24,7 @@ const dressTypes = [
   'Short Anarkali',
   'Normal Suit',
   'Long Anarkali',
-  'Sharara Set',
-  'Gharara Set',
-  'Indo Western',
-  'Kurti Set',
-  'Saree'
+
 ]
 
 export default function WholesaleDressCalculator() {
